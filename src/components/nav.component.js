@@ -18,7 +18,7 @@ export default function NavComponent() {
                     <Navbar  style={{background:Colors.colorA}} expand={expand} >
                         <Container fluid>
                             <Navbar.Brand href="/">
-                                <img src="assets/img/logo.jpg" width='120px' style={{paddingLeft:15}}/>
+                                <img src="assets/img/logo.png" width='70px' style={{marginLeft:15, borderRadius:5}}/>
                             </Navbar.Brand>
                             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                             <Navbar.Offcanvas style={{background:Colors.colorA}}
@@ -28,7 +28,7 @@ export default function NavComponent() {
                             >
                                 <Offcanvas.Header closeButton>
                                     <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                                        <img src="assets/img/logo.jpg" width='100px' style={{paddingLeft:15}}/>
+                                        <img src="assets/img/logo.png" width='70px' style={{marginLeft:15, borderRadius:5}}/>
                                     </Offcanvas.Title>
                                 </Offcanvas.Header>
                                 <Offcanvas.Body>

@@ -139,7 +139,7 @@ function Home() {
                                      // marginTop:10
                                      // fontFamily:'Itim',
                                  }}>
-                                Publisher: Department of Social Sciences, Sabaragamuwa University of Sri Lanka
+                                Publisher: Department of Social Sciences, Faculty of Social Sciences and Languages, Sabaragamuwa University of Sri Lanka
                             </div>
                         </Container>
 

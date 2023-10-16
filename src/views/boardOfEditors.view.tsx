@@ -116,6 +116,16 @@ function boardOfEditorsView() {
                         </Col>
                         <Col md="6" xs="12">
                             <div style={{fontSize: 18, textAlign: 'left', wordSpacing: 3, padding: 15, color: 'black', boxShadow: '0px 0px 6px #000', borderRadius:15, justifyContent:"center", marginBottom:20}}>
+                                <a style={{fontWeight:"bold"}}>Mrs. RPSH Hettiarachchi</a><br/>
+                                Senior Lecturer<br/>
+                                Department of Social Sciences<br/>
+                                Faculty of Social Sciences and Languages<br/>
+                                Sabaragamuwa University of Sri Lanka<br/>
+                                Email: shanthi@ssl.sab.ac.lk
+                            </div>
+                        </Col>
+                        <Col md="6" xs="12">
+                            <div style={{fontSize: 18, textAlign: 'left', wordSpacing: 3, padding: 15, color: 'black', boxShadow: '0px 0px 6px #000', borderRadius:15, justifyContent:"center", marginBottom:20}}>
                                 <a style={{fontWeight:"bold"}}>Mr. RC Palliyaguruge</a><br/>
                                 Senior Lecturer<br/>
                                 Department of Social Sciences<br/>

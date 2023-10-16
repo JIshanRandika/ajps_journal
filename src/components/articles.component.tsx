@@ -22,6 +22,22 @@ export default class ArticlesComponent extends Component {
                     Volume I | Issue I
                 </div>
 
+                {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}
+                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
+                {/*    fontSize: 15,*/}
+                {/*    textAlign: 'left',*/}
+                {/*    wordSpacing: 3,*/}
+                {/*    paddingTop: 5,*/}
+                {/*    paddingBottom: 0,*/}
+                {/*    color: 'black',*/}
+                {/*    fontWeight:"bold",*/}
+                {/*    // marginTop:10*/}
+                {/*    // fontFamily:'Itim',*/}
+                {/*}}>*/}
+                {/*    <a style={{textDecoration:'none'}} target='_blank'>*/}
+                {/*        Editorial Note*/}
+                {/*    </a>*/}
+                {/*</div>*/}
                 <hr data-aos="fade-up" data-aos-offset="100" />
                 <div data-aos="fade-up" data-aos-offset="100" style={{
                     fontSize: 15,
@@ -30,168 +46,169 @@ export default class ArticlesComponent extends Component {
                     paddingTop: 5,
                     paddingBottom: 0,
                     color: 'black',
-                    fontWeight:"bold",
+                    fontWeight:"bold"
                     // marginTop:10
                     // fontFamily:'Itim',
                 }}>
-                    <a style={{textDecoration:'none'}} target='_blank'>
-                        Editorial Note
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS.pdf' target='_blank' rel="noreferrer">
+                        Full Paper
                     </a>
                 </div>
 
                 <hr data-aos="fade-up" data-aos-offset="100" />
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 5,*/}
-                {/*    paddingBottom: 0,*/}
-                {/*    color: 'black',*/}
-                {/*    fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    <a style={{textDecoration:'none'}} href='assets/articles/2022-AA-CHN-13.pdf' target='_blank'>*/}
-                {/*        谈国别化旅游汉语教材编写中的实用性问题——以《斯里兰卡旅游汉语》 为例*/}
-                {/*    </a>*/}
-                {/*</div>*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 3,*/}
-                {/*    paddingBottom: 15,*/}
-                {/*    color: 'black',*/}
-                {/*    // fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    孙 瑛，S. Nimali Priyangika*/}
-                {/*</div>*/}
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 5,
+                    paddingBottom: 0,
+                    color: 'black',
+                    fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS-01.pdf' target='_blank' rel="noreferrer">
+                        Universal Buddhist Pantheon in Post-War Sri Lanka
+                    </a>
+                </div>
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 3,
+                    paddingBottom: 15,
+                    color: 'black',
+                    // fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    Mahesh Premarathna
+                </div>
 
 
-                {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 5,*/}
-                {/*    paddingBottom: 0,*/}
-                {/*    color: 'black',*/}
-                {/*    fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    <a style={{textDecoration:'none'}} href='assets/articles/2022-AA-CHN-17.pdf' target='_blank'>*/}
-                {/*        泰戈尔《飞鸟集》对冰心小诗的影响*/}
-                {/*    </a>*/}
-                {/*</div>*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 3,*/}
-                {/*    paddingBottom: 15,*/}
-                {/*    color: 'black',*/}
-                {/*    // fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    朱松*/}
-                {/*</div>*/}
+                <hr data-aos="fade-up" data-aos-offset="100" />
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 5,
+                    paddingBottom: 0,
+                    color: 'black',
+                    fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS-02.pdf' target='_blank'  rel="noreferrer">
+                        Gender Differences in the Determinants of Business Performance among Entrepreneurs of the Tourism Industry in Sri Lanka
+
+                    </a>
+                </div>
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 3,
+                    paddingBottom: 15,
+                    color: 'black',
+                    // fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    Saman Handaragama
+                </div>
 
 
-                {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 5,*/}
-                {/*    paddingBottom: 0,*/}
-                {/*    color: 'black',*/}
-                {/*    fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    <a style={{textDecoration:'none'}} href='assets/articles/2022-AA-ESL-05.pdf' target='_blank'>*/}
-                {/*        Effectiveness of Current Curriculum in Enhancing Speaking Ability: A Study Based on Technical Colleges*/}
-                {/*    </a>*/}
-                {/*</div>*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 3,*/}
-                {/*    paddingBottom: 15,*/}
-                {/*    color: 'black',*/}
-                {/*    // fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    P.N. Gardihewa*/}
-                {/*</div>*/}
+                <hr data-aos="fade-up" data-aos-offset="100" />
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 5,
+                    paddingBottom: 0,
+                    color: 'black',
+                    fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS-03.pdf' target='_blank'  rel="noreferrer">
+                        War Memories and Their Impact on the Ethnic Reconciliation Process in Sri Lanka
+                    </a>
+                </div>
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 3,
+                    paddingBottom: 15,
+                    color: 'black',
+                    // fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    Suranjith Gunasekara
+                </div>
 
-                {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 5,*/}
-                {/*    paddingBottom: 0,*/}
-                {/*    color: 'black',*/}
-                {/*    fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    <a style={{textDecoration:'none'}} href='assets/articles/2022-AA-ESL-14.pdf' target='_blank'>*/}
-                {/*        An Exploratory Analysis of Non-starter Undergraduates’ Learning Needs for a Scaffolding ESP Curriculum*/}
-                {/*    </a>*/}
-                {/*</div>*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 3,*/}
-                {/*    paddingBottom: 15,*/}
-                {/*    color: 'black',*/}
-                {/*    // fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    W.M.P.Y.B. Rathnayake*/}
-                {/*</div>*/}
+                <hr data-aos="fade-up" data-aos-offset="100" />
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 5,
+                    paddingBottom: 0,
+                    color: 'black',
+                    fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS-04.pdf' target='_blank'  rel="noreferrer">
+                        Criminalising Dissent: Sri Lanka’s Prevention of Terrorism Act and Its Use in Suppressing Social Movements - 2022
+                    </a>
+                </div>
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 3,
+                    paddingBottom: 15,
+                    color: 'black',
+                    // fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    Vishanka Gunawardana
+                </div>
 
 
 
-                {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 5,*/}
-                {/*    paddingBottom: 0,*/}
-                {/*    color: 'black',*/}
-                {/*    fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    <a style={{textDecoration:'none'}} href='assets/articles/2022-AA-HND-7.pdf' target='_blank'>*/}
-                {/*        संस्कृति और अर्थविज्ञान के परिपेक्ष में शब्दों का अर्थ-परिवर्तनः हिंदी के संस्कृत तत्सम शब्दों के आधार पर*/}
-                {/*    </a>*/}
-                {/*</div>*/}
-                {/*<div data-aos="fade-up" data-aos-offset="100" style={{*/}
-                {/*    fontSize: 15,*/}
-                {/*    textAlign: 'left',*/}
-                {/*    wordSpacing: 3,*/}
-                {/*    paddingTop: 3,*/}
-                {/*    paddingBottom: 15,*/}
-                {/*    color: 'black',*/}
-                {/*    // fontWeight:"bold"*/}
-                {/*    // marginTop:10*/}
-                {/*    // fontFamily:'Itim',*/}
-                {/*}}>*/}
-                {/*    H.I. Prematilake*/}
-                {/*</div>*/}
+                <hr data-aos="fade-up" data-aos-offset="100" />
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 5,
+                    paddingBottom: 0,
+                    color: 'black',
+                    fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    <a style={{textDecoration:'none'}} href='assets/articles/2023-1-AJPS-05.pdf' target='_blank'  rel="noreferrer">
+                        Uncovering the Methods of Operation and Funding of Armed Groups in the MENA Region: A Special Focus on Libya and Yemen
+                    </a>
+                </div>
+                <div data-aos="fade-up" data-aos-offset="100" style={{
+                    fontSize: 15,
+                    textAlign: 'left',
+                    wordSpacing: 3,
+                    paddingTop: 3,
+                    paddingBottom: 15,
+                    color: 'black',
+                    // fontWeight:"bold"
+                    // marginTop:10
+                    // fontFamily:'Itim',
+                }}>
+                    Mohamad Zreik
+                </div>
 
 
                 {/*<hr data-aos="fade-up" data-aos-offset="100" />*/}

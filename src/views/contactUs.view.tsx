@@ -31,7 +31,7 @@ function contactUsView() {
             </div>
 
             <div >
-                <Container style={{paddingLeft: '10%', paddingRight: '10%',paddingBottom:80,paddingTop:80}}>
+                <Container style={{paddingLeft: '10%', paddingRight: '10%',paddingBottom:120,paddingTop:120}}>
                     <Row data-aos="fade-up" data-aos-offset="100">
                         <Col md="6" xs="12">
                             <div style={{
@@ -44,13 +44,11 @@ function contactUsView() {
                                 // marginTop:10
                                 // fontFamily:'Itim',
                             }}>
-                                <a style={{fontWeight:"bold"}}>Editor in Chief</a><br/>
-                                Dr. Gihani De Silva<br/>
-                                Senior Lecturer<br/>
+                                <a style={{fontWeight:"bold"}}>Editor in Chief of AJPS</a><br/>
                                 Department of Social Sciences<br/>
                                 Faculty of Social Sciences and Languages,<br/>
                                 Sabaragamuwa University of Sri Lanka<br/>
-                                Email: gihani.desilva@ssl.sab.ac.lk<br/>
+                                Email: ceajps@ssl.sab.ac.lk<br/>
 
                             </div>
                         </Col>
